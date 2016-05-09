@@ -8,6 +8,13 @@
 	background-repeat: no-repeat;
 	padding-top: 250px;
 }
+.col.back2 {
+	background: url(../img/2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 250px;
+}
 .justify {
 	text-align: justify;
 }
@@ -17,6 +24,10 @@
 .margins {
 	padding-bottom: 60px;
 	padding-top: 60px;
+}
+.marginsf {
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 .cardi {
 	width: 300px;
