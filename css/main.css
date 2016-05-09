@@ -1,0 +1,23 @@
+.loguis {
+	width: 200px;
+}
+.col.back1 {
+	background: url(../img/TUCUQUEREPNG2.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 250px;
+}
+.justify {
+	text-align: justify;
+}
+.parax {
+	width: 1000px;
+}
+.margins {
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+.cardi {
+	width: 300px;
+}
